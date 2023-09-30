@@ -1,1 +1,2 @@
 # Wine-quality-predictor
+This is a pure machine learning based model in which we are predicting quality of wine . In this project we have performed first data cleaning ,then feature engineering after that we did Data Visualization in which we have performed comparative analysis between different features and tried our best to extract meaningful information out of that.Finally we have performed data training and testing,after that we have applied random forest classifier to our model and then finally built the prediction system
